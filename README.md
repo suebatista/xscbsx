@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suelen, but you can also call me Su.</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
+<h3 align="center">A passionate data scientist from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xscbsx&label=Profile%20views&color=0e75b6&style=flat" alt="xscbsx" /> </p>
 
