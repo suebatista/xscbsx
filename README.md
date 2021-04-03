@@ -12,7 +12,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xscbsx&show_icons=true&locale=en" alt="xscbsx" /></p>
 
 
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" / 
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
