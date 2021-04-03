@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Suelen, but you can also call me Su.</h1>
 <h3 align="center">A passionate data scientist from Brazil.</h3>
 
+- 👨🏻‍💻 Software developer with a strong data science background
+- 🔭 I’m currently working at health tech company as a data scientist !
+- 🌱 I’m currently studying about statistics and deploy methods.
+- 💡 I love innovation and new technologies
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love drag queens, horror movies and sushi
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xscbsx&label=Profile%20views&color=0e75b6&style=flat" alt="xscbsx" /> </p>
 
 
