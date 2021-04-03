@@ -16,3 +16,14 @@
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+</details>
+
+<details open> 
+ <summary> 😇 <b>Medium Published articles</b>: </summary>
+<br>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/1" alt="Recent Article 1"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pr2tik1/2" alt="Recent Article 2"></a>
+
+</details>
+
